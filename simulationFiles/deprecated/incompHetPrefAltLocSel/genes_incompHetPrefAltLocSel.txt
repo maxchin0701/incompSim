@@ -1,0 +1,4 @@
+name	Chromosome	position	Dominant.Allele	Dominant.Allele.Value	Recessive.Allele	Recessive.Allele.Value	Mode	Dominant.Freq.Pop1	Dominant.Freq.Pop2
+chr6_11000000	6	11000000	A	4	a	1	Additive	0	1
+chr6_19771790	6 	19771790 	B 	1 	b 	0 	Additive 	0 	1
+chr21_500000	21	500000	S	1	s	0	Hemizygous	0.5	0.5

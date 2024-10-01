@@ -1,0 +1,321 @@
+HaploidChromosomeNum = 24
+RandomSeed = 0.1
+Pop1AvgAlleleFreq = 1
+Pop1AvgAlleleFreqStdev = 0
+Pop2AvgAlleleFreq = 1
+Pop2AvgAlleleFreqStdev = 0
+:chr 1	len = 3e+07	centromere = 3e+07
+
+Num	Position Percentage	Position Abs.	Freq. Pop 1	Freq. Pop 2
+1	0.10	3.00E+06	1	0
+2	0.20	6.00E+06	1	0
+3	0.30	9.00E+06	1	0
+4	0.40	1.20E+07	1	0
+5	0.50	1.50E+07	1	0
+6	0.60	1.80E+07	1	0
+7	0.70	2.10E+07	1	0
+8	0.80	2.40E+07	1	0
+9	0.90	2.70E+07	1	0
+10	1.00	3.00E+07	1	0
+:chr 2	len = 3e+07	centromere = 3e+07
+
+Num	Position Percentage	Position Abs.	Freq. Pop 1	Freq. Pop 2
+1	0.10	3.00E+06	1	0
+2	0.20	6.00E+06	1	0
+3	0.30	9.00E+06	1	0
+4	0.40	1.20E+07	1	0
+5	0.50	1.50E+07	1	0
+6	0.60	1.80E+07	1	0
+7	0.70	2.10E+07	1	0
+8	0.80	2.40E+07	1	0
+9	0.90	2.70E+07	1	0
+10	1.00	3.00E+07	1	0
+:chr 3	len = 3e+07	centromere = 3e+07
+
+Num	Position Percentage	Position Abs.	Freq. Pop 1	Freq. Pop 2
+1	0.10	3.00E+06	1	0
+2	0.20	6.00E+06	1	0
+3	0.30	9.00E+06	1	0
+4	0.40	1.20E+07	1	0
+5	0.50	1.50E+07	1	0
+6	0.60	1.80E+07	1	0
+7	0.70	2.10E+07	1	0
+8	0.80	2.40E+07	1	0
+9	0.90	2.70E+07	1	0
+10	1.00	3.00E+07	1	0
+:chr 4	len = 3e+07	centromere = 3e+07
+
+Num	Position Percentage	Position Abs.	Freq. Pop 1	Freq. Pop 2
+1	0.10	3.00E+06	1	0
+2	0.20	6.00E+06	1	0
+3	0.30	9.00E+06	1	0
+4	0.40	1.20E+07	1	0
+5	0.50	1.50E+07	1	0
+6	0.60	1.80E+07	1	0
+7	0.70	2.10E+07	1	0
+8	0.80	2.40E+07	1	0
+9	0.90	2.70E+07	1	0
+10	1.00	3.00E+07	1	0
+:chr 5	len = 3e+07	centromere = 3e+07
+
+Num	Position Percentage	Position Abs.	Freq. Pop 1	Freq. Pop 2
+1	0.10	3.00E+06	1	0
+2	0.20	6.00E+06	1	0
+3	0.30	9.00E+06	1	0
+4	0.40	1.20E+07	1	0
+5	0.50	1.50E+07	1	0
+6	0.60	1.80E+07	1	0
+7	0.70	2.10E+07	1	0
+8	0.80	2.40E+07	1	0
+9	0.90	2.70E+07	1	0
+10	1.00	3.00E+07	1	0
+:chr 6	len = 3e+07	centromere = 3e+07
+
+Num	Position Percentage	Position Abs.	Freq. Pop 1	Freq. Pop 2
+1	0.10	3.00E+06	1	0
+2	0.20	6.00E+06	1	0
+3	0.30	9.00E+06	1	0
+4	0.40	1.20E+07	1	0
+5	0.50	1.50E+07	1	0
+6	0.60	1.80E+07	1	0
+7	0.70	2.10E+07	1	0
+8	0.80	2.40E+07	1	0
+9	0.90	2.70E+07	1	0
+10	1.00	3.00E+07	1	0
+:chr 7	len = 3e+07	centromere = 3e+07
+
+Num	Position Percentage	Position Abs.	Freq. Pop 1	Freq. Pop 2
+1	0.10	3.00E+06	1	0
+2	0.20	6.00E+06	1	0
+3	0.30	9.00E+06	1	0
+4	0.40	1.20E+07	1	0
+5	0.50	1.50E+07	1	0
+6	0.60	1.80E+07	1	0
+7	0.70	2.10E+07	1	0
+8	0.80	2.40E+07	1	0
+9	0.90	2.70E+07	1	0
+10	1.00	3.00E+07	1	0
+:chr 8	len = 3e+07	centromere = 3e+07
+
+Num	Position Percentage	Position Abs.	Freq. Pop 1	Freq. Pop 2
+1	0.10	3.00E+06	1	0
+2	0.20	6.00E+06	1	0
+3	0.30	9.00E+06	1	0
+4	0.40	1.20E+07	1	0
+5	0.50	1.50E+07	1	0
+6	0.60	1.80E+07	1	0
+7	0.70	2.10E+07	1	0
+8	0.80	2.40E+07	1	0
+9	0.90	2.70E+07	1	0
+10	1.00	3.00E+07	1	0
+:chr 9	len = 3e+07	centromere = 3e+07
+
+Num	Position Percentage	Position Abs.	Freq. Pop 1	Freq. Pop 2
+1	0.10	3.00E+06	1	0
+2	0.20	6.00E+06	1	0
+3	0.30	9.00E+06	1	0
+4	0.40	1.20E+07	1	0
+5	0.50	1.50E+07	1	0
+6	0.60	1.80E+07	1	0
+7	0.70	2.10E+07	1	0
+8	0.80	2.40E+07	1	0
+9	0.90	2.70E+07	1	0
+10	1.00	3.00E+07	1	0
+:chr 10	len = 3e+07	centromere = 3e+07
+
+Num	Position Percentage	Position Abs.	Freq. Pop 1	Freq. Pop 2
+1	0.10	3.00E+06	1	0
+2	0.20	6.00E+06	1	0
+3	0.30	9.00E+06	1	0
+4	0.40	1.20E+07	1	0
+5	0.50	1.50E+07	1	0
+6	0.60	1.80E+07	1	0
+7	0.70	2.10E+07	1	0
+8	0.80	2.40E+07	1	0
+9	0.90	2.70E+07	1	0
+10	1.00	3.00E+07	1	0
+:chr 11	len = 3e+07	centromere = 3e+07
+
+Num	Position Percentage	Position Abs.	Freq. Pop 1	Freq. Pop 2
+1	0.10	3.00E+06	1	0
+2	0.20	6.00E+06	1	0
+3	0.30	9.00E+06	1	0
+4	0.40	1.20E+07	1	0
+5	0.50	1.50E+07	1	0
+6	0.60	1.80E+07	1	0
+7	0.70	2.10E+07	1	0
+8	0.80	2.40E+07	1	0
+9	0.90	2.70E+07	1	0
+10	1.00	3.00E+07	1	0
+:chr 12	len = 3e+07	centromere = 3e+07
+
+Num	Position Percentage	Position Abs.	Freq. Pop 1	Freq. Pop 2
+1	0.10	3.00E+06	1	0
+2	0.20	6.00E+06	1	0
+3	0.30	9.00E+06	1	0
+4	0.40	1.20E+07	1	0
+5	0.50	1.50E+07	1	0
+6	0.60	1.80E+07	1	0
+7	0.70	2.10E+07	1	0
+8	0.80	2.40E+07	1	0
+9	0.90	2.70E+07	1	0
+10	1.00	3.00E+07	1	0
+:chr 13	len = 3e+07	centromere = 3e+07
+
+Num	Position Percentage	Position Abs.	Freq. Pop 1	Freq. Pop 2
+1	0.10	3.00E+06	1	0
+2	0.20	6.00E+06	1	0
+3	0.30	9.00E+06	1	0
+4	0.40	1.20E+07	1	0
+5	0.50	1.50E+07	1	0
+6	0.60	1.80E+07	1	0
+7	0.70	2.10E+07	1	0
+8	0.80	2.40E+07	1	0
+9	0.90	2.70E+07	1	0
+10	1.00	3.00E+07	1	0
+:chr 14	len = 3e+07	centromere = 3e+07
+
+Num	Position Percentage	Position Abs.	Freq. Pop 1	Freq. Pop 2
+1	0.10	3.00E+06	1	0
+2	0.20	6.00E+06	1	0
+3	0.30	9.00E+06	1	0
+4	0.40	1.20E+07	1	0
+5	0.50	1.50E+07	1	0
+6	0.60	1.80E+07	1	0
+7	0.70	2.10E+07	1	0
+8	0.80	2.40E+07	1	0
+9	0.90	2.70E+07	1	0
+10	1.00	3.00E+07	1	0
+:chr 15	len = 3e+07	centromere = 3e+07
+
+Num	Position Percentage	Position Abs.	Freq. Pop 1	Freq. Pop 2
+1	0.10	3.00E+06	1	0
+2	0.20	6.00E+06	1	0
+3	0.30	9.00E+06	1	0
+4	0.40	1.20E+07	1	0
+5	0.50	1.50E+07	1	0
+6	0.60	1.80E+07	1	0
+7	0.70	2.10E+07	1	0
+8	0.80	2.40E+07	1	0
+9	0.90	2.70E+07	1	0
+10	1.00	3.00E+07	1	0
+:chr 16	len = 3e+07	centromere = 3e+07
+
+Num	Position Percentage	Position Abs.	Freq. Pop 1	Freq. Pop 2
+1	0.10	3.00E+06	1	0
+2	0.20	6.00E+06	1	0
+3	0.30	9.00E+06	1	0
+4	0.40	1.20E+07	1	0
+5	0.50	1.50E+07	1	0
+6	0.60	1.80E+07	1	0
+7	0.70	2.10E+07	1	0
+8	0.80	2.40E+07	1	0
+9	0.90	2.70E+07	1	0
+10	1.00	3.00E+07	1	0
+:chr 17	len = 3e+07	centromere = 3e+07
+
+Num	Position Percentage	Position Abs.	Freq. Pop 1	Freq. Pop 2
+1	0.10	3.00E+06	1	0
+2	0.20	6.00E+06	1	0
+3	0.30	9.00E+06	1	0
+4	0.40	1.20E+07	1	0
+5	0.50	1.50E+07	1	0
+6	0.60	1.80E+07	1	0
+7	0.70	2.10E+07	1	0
+8	0.80	2.40E+07	1	0
+9	0.90	2.70E+07	1	0
+10	1.00	3.00E+07	1	0
+:chr 18	len = 3e+07	centromere = 3e+07
+
+Num	Position Percentage	Position Abs.	Freq. Pop 1	Freq. Pop 2
+1	0.10	3.00E+06	1	0
+2	0.20	6.00E+06	1	0
+3	0.30	9.00E+06	1	0
+4	0.40	1.20E+07	1	0
+5	0.50	1.50E+07	1	0
+6	0.60	1.80E+07	1	0
+7	0.70	2.10E+07	1	0
+8	0.80	2.40E+07	1	0
+9	0.90	2.70E+07	1	0
+10	1.00	3.00E+07	1	0
+:chr 19	len = 3e+07	centromere = 3e+07
+
+Num	Position Percentage	Position Abs.	Freq. Pop 1	Freq. Pop 2
+1	0.10	3.00E+06	1	0
+2	0.20	6.00E+06	1	0
+3	0.30	9.00E+06	1	0
+4	0.40	1.20E+07	1	0
+5	0.50	1.50E+07	1	0
+6	0.60	1.80E+07	1	0
+7	0.70	2.10E+07	1	0
+8	0.80	2.40E+07	1	0
+9	0.90	2.70E+07	1	0
+10	1.00	3.00E+07	1	0
+:chr 20	len = 3e+07	centromere = 3e+07
+
+Num	Position Percentage	Position Abs.	Freq. Pop 1	Freq. Pop 2
+1	0.10	3.00E+06	1	0
+2	0.20	6.00E+06	1	0
+3	0.30	9.00E+06	1	0
+4	0.40	1.20E+07	1	0
+5	0.50	1.50E+07	1	0
+6	0.60	1.80E+07	1	0
+7	0.70	2.10E+07	1	0
+8	0.80	2.40E+07	1	0
+9	0.90	2.70E+07	1	0
+10	1.00	3.00E+07	1	0
+:chr 21	len = 3e+07	centromere = 3e+07
+
+Num	Position Percentage	Position Abs.	Freq. Pop 1	Freq. Pop 2
+1	0.10	3.00E+06	1	0
+2	0.20	6.00E+06	1	0
+3	0.30	9.00E+06	1	0
+4	0.40	1.20E+07	1	0
+5	0.50	1.50E+07	1	0
+6	0.60	1.80E+07	1	0
+7	0.70	2.10E+07	1	0
+8	0.80	2.40E+07	1	0
+9	0.90	2.70E+07	1	0
+10	1.00	3.00E+07	1	0
+:chr 22	len = 3e+07	centromere = 3e+07
+
+Num	Position Percentage	Position Abs.	Freq. Pop 1	Freq. Pop 2
+1	0.10	3.00E+06	1	0
+2	0.20	6.00E+06	1	0
+3	0.30	9.00E+06	1	0
+4	0.40	1.20E+07	1	0
+5	0.50	1.50E+07	1	0
+6	0.60	1.80E+07	1	0
+7	0.70	2.10E+07	1	0
+8	0.80	2.40E+07	1	0
+9	0.90	2.70E+07	1	0
+10	1.00	3.00E+07	1	0
+
+:chr 23	len = 3e+07	centromere = 3e+07
+
+Num	Position Percentage	Position Abs.	Freq. Pop 1	Freq. Pop 2
+1	0.10	3.00E+06	1	0
+2	0.20	6.00E+06	1	0
+3	0.30	9.00E+06	1	0
+4	0.40	1.20E+07	1	0
+5	0.50	1.50E+07	1	0
+6	0.60	1.80E+07	1	0
+7	0.70	2.10E+07	1	0
+8	0.80	2.40E+07	1	0
+9	0.90	2.70E+07	1	0
+10	1.00	3.00E+07	1	0
+:chr 24	len = 3e+07	centromere = 3e+07
+
+Num	Position Percentage	Position Abs.	Freq. Pop 1	Freq. Pop 2
+1	0.10	3.00E+06	1	0
+2	0.20	6.00E+06	1	0
+3	0.30	9.00E+06	1	0
+4	0.40	1.20E+07	1	0
+5	0.50	1.50E+07	1	0
+6	0.60	1.80E+07	1	0
+7	0.70	2.10E+07	1	0
+8	0.80	2.40E+07	1	0
+9	0.90	2.70E+07	1	0
+10	1.00	3.00E+07	1	0
+
+

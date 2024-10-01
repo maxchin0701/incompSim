@@ -1,0 +1,12 @@
+rm: cannot remove 'incompODomSel': No such file or directory
+rm: cannot remove 'incompODomSel': No such file or directory
+rm: cannot remove 'incompODomSel': No such file or directory
+rm: cannot remove 'incompODomSel': No such file or directory
+mkdir: cannot create directory 'output_incompODomSel': File exists
+/var/spool/slurm/d/job25132189/slurm_script: line 116: cd: ../outputs: No such file or directory
+head: cannot open 'incompODomSel_Fis_0.2.csv' for reading: No such file or directory
+tail: cannot open 'incompODomSel_Fis_0.*' for reading: No such file or directory
+head: cannot open 'incompODomSel_Ho_0.2.csv' for reading: No such file or directory
+tail: cannot open 'incompODomSel_Ho_0.*' for reading: No such file or directory
+head: cannot open 'incompODomSel_RawGeno_0.2.csv' for reading: No such file or directory
+tail: cannot open 'incompODomSel_RawGeno_0.*' for reading: No such file or directory

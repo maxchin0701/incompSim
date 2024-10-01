@@ -1,0 +1,90 @@
+RandomSeed	=	1.1
+MarkerFile	=	markers.txt #Marker File Containing marker info.
+MarkerProbFile	=	recombination_hotspots.txt	#Recombination probabilities
+UseUniformRec	=	yes	# ignore predefined breakpoints above, use uniform.
+IgnoreMarkerFreq		=	yes #Ignore marker frequencies specified in file and use 1 for pop1, 0 for pop2, this equivalent to fixed differences
+DumpNatSelProb  = Off
+GeneFile				=	genes_recRecDMISel.txt
+PhenotypeFile	= phenotypes_recRecDMISel.txt   #Phenotype File
+OutputFolder				= ./recRecDMISel
+NaturalSelection	=  naturalsel_recRecDMISel.txt  #definition of natural selection
+SexualSelection	=	sexualsel_recRecDMISel.txt
+    #only one character is allowed
+#population names:
+pop2_name =	    birchmanni  #0%
+pop2_ancestry_label =	b
+hybrid_name = hyb1  #5
+hybrid1_name = hyb2  #5
+hybrid2_name = hyb3  #5
+pop1_name = malinche  #100%
+pop1_ancestry_label =	 m 
+ 
+#Pop sizes
+pop1_init_size = 30
+pop1_size_limit = 50     #mal Size limit
+pop2_init_size = 30
+pop2_size_limit = 50    #birch Size Limit
+hybrid_size_limit = 50
+hybrid1_size_limit = 50
+hybrid2_size_limit = 50
+
+pop1_male_ratio = 1
+pop2_male_ratio = 0
+migration_only_first_gen = yes
+
+#migration first generation:
+#birch to hybrid
+gen0_pop2_to_hybrid = 10
+gen0_pop2_to_hybrid1 = 10
+gen0_pop2_to_hybrid2 = 10
+
+#mal to hybrid
+gen0_pop1_to_hybrid = 10
+gen0_pop1_to_hybrid1 = 10
+gen0_pop1_to_hybrid2 = 10
+
+#migration  interpopulations each gen:
+#simmetrical m=0.1 100 from 1000, only to adjacent populations, no migration to parentals
+#Pop 2
+pop2_to_pop1 = 0
+pop2_to_hybrid = 0
+pop2_to_hybrid1 = 0
+pop2_to_hybrid2 = 0
+
+#hybrid
+hybrid_to_pop2 = 0
+hybrid_to_pop1 = 0
+hybrid_to_hybrid1 = 0
+hybrid_to_hybrid2 = 0
+
+
+#hybrid1
+hybrid1_to_pop2 = 0
+hybrid1_to_pop1 = 0
+hybdid1_to_hybrid = 0
+hybdid1_to_hybrid2 = 0
+
+
+#hybrid2
+hybrid2_to_pop2 = 0
+hybrid2_to_pop1 = 0
+hybrid2_to_hybrid = 0
+hybrid2_to_hybrid1 = 0
+
+
+#pop1
+pop1_to_pop2 = 0
+pop1_to_hybrid = 0
+pop1_to_hybrid1 = 0
+pop1_to_hybrid2 = 0
+
+
+generations = 20
+avg_female_gamete	=	20
+std_female_gamete	=   3.16
+kids_per_female_func = Poisson
+samplefreq	  = 1 #sample every generation
+MarkerOutput	  = Off #On or Off
+SampleMate =  50 #random mating
+NumThreads  = 1
+samplegens = samplegens.txt

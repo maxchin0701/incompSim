@@ -1,0 +1,6 @@
+Population	Gen	Selection
+malinche	-1	1
+birchmanni	-1	1
+hyb1	-1	s=0.91,if(Courter_pref!=1,1-s,1)
+hyb2	-1	s=0,if(Courter_pref!=1,1-s,1)
+hyb3	-1	s=0,if(Courter_pref!=1,1-s,1)

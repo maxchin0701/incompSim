@@ -1,0 +1,5 @@
+Phenotypes	Formula
+incomp	chr6_11000000
+pref	chr6_19771790
+Sex	chr21_500000 
+
