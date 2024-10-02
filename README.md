@@ -2,7 +2,7 @@
 
 Forward time simulations in Admixem investigating interactions between incompatibility selection and various models of mate choice.
 
-#### Incompatibility model
+### Incompatibility model
 
 A single nuclear incompatibility locus is modeled, designed to mirror the mito-nuclear incompatibility empirically observed in the *Xiphophorus malinche* - *X. birchmanni* system. Individuals which are homozygous for *X. birchmanni* ancestry at this locus experience fitness reductions with S=0.91.
 
