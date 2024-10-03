@@ -1,0 +1,8 @@
+Population	Gen	Selection
+malinche	-1	1
+birchmanni	-1	1
+hyb1	-1	s1=0.91,s2=0.5,if(incomp==2,1-s1,1)*if(Sex==1,1-s2,1)
+hyb2	-1	s1=0.91,s2=0.5,if(incomp==2,1-s1,1)*if(Sex==1,1-s2,1)
+hyb3	-1	s1=0.91,s2=0.5,if(incomp==2,1-s1,1)*if(Sex==1,1-s2,1)
+
+

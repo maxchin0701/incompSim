@@ -1,0 +1,6 @@
+Population	Gen	Selection
+malinche	-1	1
+birchmanni	-1	1
+hyb1	-1	s=0.91,if(Courter_incomp!=My_incomp,1,1-s)
+hyb2	-1	s=0.91,if(Courter_incomp!=My_incomp,1,1-s)
+hyb3	-1	s=0.91,if(Courter_incomp!=My_incomp,1,1-s)

@@ -1,0 +1,6 @@
+Population	Gen	Selection
+malinche	-1	1
+birchmanni	-1	1
+hyb1	-1	s=0.91,1-((1-(Courter_perMal/100))*s)
+hyb2	-1	s=0.91,1-((1-(Courter_perMal/100))*s)
+hyb3	-1	s=0.91,1-((1-(Courter_perMal/100))*s)
