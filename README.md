@@ -10,7 +10,7 @@ A single nuclear incompatibility locus is modeled, designed to mirror the mito-n
 
 **hetGenWidePref**: Preference for genome wide heterozygosity, calculated based on 24 loci distributed across the genome (1 per chrmoosome). Preference strength describes the P(mating) difference between completely heterozygous and homozygous courters, and preference increases linearly with heterozygosity.
 
-**malGenWidePref**: Preference for genome wide malinche, calculated based on 24 loci distributed across the genome (1 per chrmoosome). Preference strength describes the P(mating) difference between completely heterozygous and homozygous courters, and preference increases linearly with heterozygosity.
+**malGenWidePref**: Preference for genome wide malinche ancestry, calculated based on 24 loci distributed across the genome (1 per chrmoosome). Preference strength describes the P(mating) difference between 100% birchmanni and 100% malinche courters, and preference increases linearly with heterozygosity.
 
 **hetIncompLocusPref**: Preference for heterozygosity at the incompitibility locus. Preference strength describes the P(mating) difference between heterozygous and homozygous courters.
 
